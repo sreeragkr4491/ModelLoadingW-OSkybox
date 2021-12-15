@@ -1,4 +1,4 @@
-//Model loading without skybox
+//Model loading without skybox (Lambo)
 
 //// ********** model loading related errors solved (use all dll files from ogl folder in 
 ////ur project folder and also paste it in computer --> windows --> system32/system64 bit --> 
